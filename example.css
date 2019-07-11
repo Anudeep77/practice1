@@ -1,0 +1,10 @@
+.gd{
+	color: red; 
+}
+span{
+	float: right;
+	display: inline-block;
+}
+img{
+	float: right;
+}
